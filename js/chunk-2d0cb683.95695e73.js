@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0cb683"],{"4a11":function(t,e,c){"use strict";c.r(e);var n=c("7a23"),a={class:"container"},b=Object(n["g"])("h1",{class:"text-center"},"歡迎您，來到此網站購物！！",-1),r=Object(n["g"])("p",{class:"text-danger text-center"},[Object(n["h"])("購買產品（請點選上方的 "),Object(n["g"])("b",null,"產品列表"),Object(n["h"])(" ）")],-1),s=[b,r];function d(t,e){return Object(n["t"])(),Object(n["f"])("div",a,s)}var o=c("6b0d"),u=c.n(o);const i={},j=u()(i,[["render",d]]);e["default"]=j}}]);
+//# sourceMappingURL=chunk-2d0cb683.95695e73.js.map

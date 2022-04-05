@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ae4f0"],{"0a09":function(n,e,t){"use strict";t.r(e);var c=t("7a23"),a={class:"container"},r=Object(c["g"])("h1",{class:"text-center"},"歡迎您，來到後台管理介面！！",-1),s=[r];function o(n,e){return Object(c["t"])(),Object(c["f"])("div",a,s)}var d=t("6b0d"),i=t.n(d);const u={},b=i()(u,[["render",o]]);e["default"]=b}}]);
+//# sourceMappingURL=chunk-2d0ae4f0.82d32e09.js.map
